@@ -18,3 +18,11 @@ npm run dev
 ```
 yarn dev
 ```
+
+3. #### _Equipe de devs_
+```
+Rafael Rodrigues
+Romario Cavalcante
+Lucas
+Marcos
+```
