@@ -18,7 +18,6 @@ npm run dev
 ```
 yarn dev
 ```
-<<<<<<< HEAD
 
 3. #### _Equipe de devs_
 ```
@@ -27,5 +26,5 @@ Romario Cavalcante
 Lucas
 Marcos
 ```
-=======
->>>>>>> ecd05a6ac26359e62e93800084804684b4415df0
+
+
